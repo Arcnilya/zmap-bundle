@@ -5,6 +5,7 @@ pps,NS,resolvers
 50k,3.8M,?
 25k,5.2M
 
+Region: eu-north-1
 OS: Ubuntu 22.04 64-bit
 Instance Type: c5a.8xlarge
 Key pair: zmap1
